@@ -34,7 +34,7 @@ git push origin branch
 <h1 align="center">Инструкция по установке</h1>
 <p><strong> Установка </strong></p>
 <ol>
-  <li>Скачайте <a href="зипка">архив</a> <strong>TossCoin.zip</strong></li>
+  <li>Скачайте <a href="зипка">архив</a> <strong></strong></li>
   <li>Распакуйте в папку на рабочем столе</li>
   <li>Запустите файл под названием <strong>название файла</strong></li>
 </ol>
