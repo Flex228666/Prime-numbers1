@@ -13,23 +13,21 @@
 
 <h1 align="center">Инструкция по совместной работе</h1>
 1. Создайте форк репозитория
+
 2. Клонируйте ваш форк и создайте ветку для разработки:
-```
+
 git clone https://github.com/username/repository.git
-```
-```
+
 git checkout -b branch
-```
+
 3. После завершения вашей работы отправьте изменения в ваш форк:
-```
+
 git add .
-```
-```
+
 git commit -m "Описание изменений"
-```
-```
+
 git push origin branch
-```
+
 
 <h1 align="center">Инструкция по установке</h1>
 <p><strong> Установка </strong></p>
