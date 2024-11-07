@@ -1,4 +1,4 @@
-в# Prime-numbers
+# Prime-numbers
 
 <h1 align="center">Поиск простых чиссел</h1>
 
