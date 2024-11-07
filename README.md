@@ -34,7 +34,7 @@ git push origin branch
 <h1 align="center">Инструкция по установке</h1>
 <p><strong> Установка </strong></p>
 <ol>
-  <li>Скачайте <a href="https://github.com/Flex228666/Prime-numbers/blob/main/Prime-numbers.exe"></a><strong></strong></li>
+  <li>Скачайте <a href="https://github.com/Flex228666/Prime-numbers/blob/main/Prime-numbers.exe">exe</a>Файл<strong></strong></li>
   <li>И запустите файл</strong></li>
 </ol>
 
